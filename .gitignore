@@ -21,6 +21,7 @@
 *.so
 *.dylib
 *.dll
+*.bin
 
 # Fortran module files
 *.mod
@@ -39,3 +40,6 @@
 
 # debug information files
 *.dwo
+
+# secrets
+secret*.*
